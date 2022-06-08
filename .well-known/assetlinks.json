@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "nl.capaxambi.wordtranslator.androidapp",
+    "sha256_cert_fingerprints":
+    ["41:9C:7A:68:5A:F5:49:32:9E:4F:C3:5E:33:E6:6B:E1:00:8F:B1:51:1F:1A:FF:FF:2D:81:FF:6C:BD:82:9A:F6"]
+  }
+}]
